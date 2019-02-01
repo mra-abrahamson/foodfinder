@@ -21,5 +21,26 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mra-abrahamson/foodfinder.git"
+  },
+  "keywords": [
+    "foodbank",
+    "hunger",
+    "food",
+    "pantry",
+    "react",
+    "altruism"
+  ],
+  "author": "Matthew Abrahamson Ani Dergobosian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mra-abrahamson/foodfinder/issues"
+  },
+  "homepage": "https://github.com/mra-abrahamson/foodfinder#readme"
 }
