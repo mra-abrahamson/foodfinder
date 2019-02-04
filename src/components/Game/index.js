@@ -5,9 +5,8 @@ import Container from "../Container";
 import ClickItem from "../ClickItem";
 import Footer from "../Footer";
 import data from "../../data.json";
-import maps from "./Container/maps";
 
-class Main extends Component {
+class Game extends Component {
   state = {
     data,
     score: 0,
@@ -93,4 +92,4 @@ class Main extends Component {
   }
 }
 
-export default Main;
+export default Game;

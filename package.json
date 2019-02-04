@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "google-maps-react": "^2.0.2",
+    "jshint": "^2.9.7",
+    "jslint": "^0.12.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
